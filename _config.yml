@@ -1,0 +1,9 @@
+title: Asheswari Swain
+description: ML platform engineer and NMT researcher. Notes on data, models, and translation.
+url: "https://asheswariswain.github.io"
+author:
+  name: Asheswari Swain
+  email: asheswari.swain@gmail.com
+permalink: /blog/:year/:title/
+markdown: kramdown
+exclude: [SETUP.md]
